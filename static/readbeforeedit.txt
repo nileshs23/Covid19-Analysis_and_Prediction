@@ -1,0 +1,2 @@
+old data is up to 12/2020  if wanna update cahnge in code
+file have to be stored in graphs (to see the effect)manually according to names
