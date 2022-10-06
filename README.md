@@ -9,5 +9,4 @@ Make sure you've installed all the requirements by using **pip install -r requir
 
 Use **"python manage.py runserver"** To run the programm.
 
-
 ![Screenshot (28)](https://user-images.githubusercontent.com/53571060/122444287-02a47400-cfbe-11eb-8a33-18272e31b79d.png)
